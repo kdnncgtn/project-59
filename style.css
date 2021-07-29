@@ -1,0 +1,18 @@
+#about{
+    background-color:darkmagenta;
+    font-size:30px;
+    font-family:cursive;
+    color:yellow;
+}
+body{
+    text-align:center;
+    font-family:cursive;
+    background:linear-gradient(#f0f01d 0%, #f01d27 100% )
+}
+.menu { list-style: none; position: fixed; top: 10px; right: 30px; cursor: pointer; z-index: 10; 
+    
+}
+.links { float: left; color: fuchsia; padding-top: 5px; padding-left: 9px; padding-right: 9px; padding-bottom: 5px; font-family: fantasy; font-size: 20px }
+.links:hover{
+    background-color:darkorange;
+}
